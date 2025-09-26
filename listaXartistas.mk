@@ -1,0 +1,1 @@
+[{"artista":"Furia X Money","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/Furia_X_Money_62op/zorra.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/Furia_X_Money_62op/zorra.mp3","campo1":"Pop","id":"rdoaz","campo2":"https://jlrecord.github.io/Furia_X_Money_62op/zorra.html","publicacion":"la zorra"}]
